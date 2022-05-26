@@ -37,7 +37,7 @@ int main()
             queue[i].update(window);
             queue[i].draw(window);
         }
-
+        std::cout << "kek" << std::endl;
         window.display();
     }
 

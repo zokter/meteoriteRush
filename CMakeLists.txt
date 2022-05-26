@@ -1,3 +1,4 @@
+project(meteoriteRush)
 
 add_executable(meteoriteRush "main.cpp" "Enemy.h" "Player.h" "Entity.h" "Enemy.cpp" "Player.cpp")
 
